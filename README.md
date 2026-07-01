@@ -1,56 +1,36 @@
-# Practice Ansible Programming Projects
+# Ansible Practice Projects
 
-<div align="center">
-<img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
-</div>
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
+<p align="center">
+  <a href="https://labex.io/learn/ansible">
+    <img width="128" src="https://file.labex.io/upload/u/1991/wbYPKTXIzLaj.png" alt="Ansible">
+  </a>
+</p>
 
-|   Index | Name                                                                                                                                        | Level   | Project Link                                                                                |
-|---------|---------------------------------------------------------------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------------------------------|
-|       1 | [Basic Usage of Ansible](https://labex.io/courses/basic-usage-of-ansible)                                                                   | ★★☆     | [🚀 Start](https://labex.io/courses/basic-usage-of-ansible)                                  |
-|       2 | [Integrate Ansible With Jenkins for Automated Deployment](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) | ★★☆     | [🚀 Start](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
+Learn Ansible with this structured learning path, featuring a series of hands-on Ansible courses designed for beginners. This roadmap provides a systematic approach to mastering IT automation, configuration management, and infrastructure as code. Develop practical, real-world skills through non-video tutorials and interactive exercises in a dedicated Ansible playground.
 
-## More Projects
+[Explore Projects on LabEx](https://labex.io/learn/ansible)
 
-- [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
-- [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
-- [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
-- [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
-- [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
-- [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
-- [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
-- [Shell Programming Projects](https://github.com/labex-labs/practice-shell-programming-projects)
-- [Java Programming Projects](https://github.com/labex-labs/practice-java-programming-projects)
-- [Hadoop Programming Projects](https://github.com/labex-labs/practice-hadoop-programming-projects)
-- [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
-- [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
-- [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
-- [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
-- [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
-- [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
-- [Matplotlib Programming Projects](https://github.com/labex-labs/practice-matplotlib-programming-projects)
-- [Algorithm Programming Projects](https://github.com/labex-labs/practice-algorithm-programming-projects)
-- [HTML Programming Projects](https://github.com/labex-labs/practice-html-programming-projects)
-- [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
-- [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
-- [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
+## Projects
 
+Explore 9 beginner-friendly Ansible projects that turn core language concepts into small, complete programs. Each project opens in LabEx with a ready-to-use environment, so you can focus on building instead of setup.
 
-## Other Lists
+|   Index | Project                                                                                                                                                        | Difficulty   | Practice                                                                                         |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------|
+|       1 | [Red Hat Enterprise Linux Automation with Ansible (RH294) Certification Labs](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Beginner     | [Start project](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|       2 | [Ansible for Beginners](https://labex.io/courses/ansible-for-beginners)                                                                                        | Beginner     | [Start project](https://labex.io/courses/ansible-for-beginners)                                  |
+|       3 | [Ansible Automation](https://labex.io/courses/ansible-automation)                                                                                              | Intermediate | [Start project](https://labex.io/courses/ansible-automation)                                     |
+|       4 | [HAProxy Load Balancing](https://labex.io/courses/haproxy-load-balancing)                                                                                      | Intermediate | [Start project](https://labex.io/courses/haproxy-load-balancing)                                 |
+|       5 | [Keepalived High Availability](https://labex.io/courses/keepalived-high-availability)                                                                          | Intermediate | [Start project](https://labex.io/courses/keepalived-high-availability)                           |
+|       6 | [High Availability & Automation](https://labex.io/courses/project-high-availability-and-automation)                                                            | Advanced     | [Start project](https://labex.io/courses/project-high-availability-and-automation)               |
+|       7 | [RHCE Ansible Prep (EX294)](https://labex.io/courses/rhce-ansible-prep)                                                                                        | Beginner     | [Start project](https://labex.io/courses/rhce-ansible-prep)                                      |
+|       8 | [RHCE in Ansible Practice Exam 01](https://labex.io/courses/rhce-ansible-practice-exam-01)                                                                     | Intermediate | [Start project](https://labex.io/courses/rhce-ansible-practice-exam-01)                          |
+|       9 | [RHCE in Ansible Practice Exam 02](https://labex.io/courses/rhce-ansible-practice-exam-02)                                                                     | Intermediate | [Start project](https://labex.io/courses/rhce-ansible-practice-exam-02)                          |
 
-- 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+[View More on LabEx](https://labex.io/learn/ansible)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
